@@ -658,7 +658,7 @@ export default function Particle() {
                   },
                   "position": {
                       "x": -5,
-                      "y": 55
+                      "y": 50
                   }
               }
           }}
