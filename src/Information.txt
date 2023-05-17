@@ -1,0 +1,10 @@
+How to use react-tsparticles in React.js
+First of all, you have to install react-tsparticles as well as tsparticles as react-tsparticles depends upon it.
+
+npm i react-tsparticles
+npm i tsparticles
+
+Now import Particles from react-tsparticles and { loadFull } from tsparticles.
+
+import Particles from "react-tsparticles";
+import { loadFull } from "tsparticles";
